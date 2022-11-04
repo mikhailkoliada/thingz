@@ -7,7 +7,7 @@
  
 # Azure
 
-Needed, but noy limited to:
+minimal requirements:
 
 1. compute
 2. resource groups
